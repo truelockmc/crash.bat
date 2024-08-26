@@ -1,0 +1,1 @@
+start CrashOeffnetSichSelbstUnendlich.bat
